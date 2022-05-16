@@ -18,7 +18,7 @@
 
 <br>
 
-  <img src="github/gifs/desktop.gif" alt="Gif da página para desktop" width="500">
+  <img src="github/gifs/desktop.gif" alt="Gif da página para desktop" width="900">
 
 <br><br>
 </h1>
@@ -29,7 +29,7 @@
 
 <br>
 
-  <img src="github/gifs/mobile.gif" alt="Gif da página para mobile" width="400">
+  <img src="github/gifs/mobile.gif" alt="Gif da página para mobile" width="250">
 
 <br><br>
 </h1>
